@@ -1,0 +1,5 @@
+whisper
+openai
+pathlib
+mimetypes
+whisper-openai
